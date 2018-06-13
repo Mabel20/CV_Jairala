@@ -3,7 +3,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="CC00F"
     tools:context="com.example.viruslol.cv_jairala.Experiencia_Laboral">
 
     <!-- TODO: Update blank fragment layout -->
@@ -54,7 +53,6 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="16dp"
             android:layout_marginTop="12dp"
-            android:background="993399"
             android:text="Referencia:"
             android:textColorLink="@color/colorPrimaryDark"
             android:textStyle="bold"
